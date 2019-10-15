@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\DecisionMakingLab\bin\Debug\netcoreapp3.0\DecisionMakingLab.exe
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\DecisionMakingLab\bin\Debug\netcoreapp3.0\DecisionMakingLab.deps.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\DecisionMakingLab\bin\Debug\netcoreapp3.0\DecisionMakingLab.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\DecisionMakingLab\bin\Debug\netcoreapp3.0\DecisionMakingLab.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\DecisionMakingLab\bin\Debug\netcoreapp3.0\DecisionMakingLab.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\DecisionMakingLab\bin\Debug\netcoreapp3.0\DecisionMakingLab.pdb
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\DecisionMakingLab\obj\Debug\netcoreapp3.0\DecisionMakingLab.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\DecisionMakingLab\obj\Debug\netcoreapp3.0\DecisionMakingLab.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\DecisionMakingLab\obj\Debug\netcoreapp3.0\DecisionMakingLab.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\DecisionMakingLab\obj\Debug\netcoreapp3.0\DecisionMakingLab.dll
+C:\Users\micha\OneDrive\Desktop\C# Boot Camp\CSharp_October2019\DecisionMakingLab\obj\Debug\netcoreapp3.0\DecisionMakingLab.pdb
