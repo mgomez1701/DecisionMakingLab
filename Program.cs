@@ -8,7 +8,8 @@ namespace DecisionMakingLab
            
         {
             bool redo = true;
-            string answer = "Y";
+
+
             while (redo)
             {
 
@@ -62,7 +63,7 @@ namespace DecisionMakingLab
                 {
                     Console.WriteLine($"{name} the number {choosenNumber} is Even");
                 }
-                else if (choosenNumber <= 60  && choosenNumber % 2 != 0)
+                else if (choosenNumber <= 60 && choosenNumber % 2 != 0)
                 {
                     //: If the integer entered is odd and greater than 60, print the number  entered and “Odd.”
 
@@ -70,14 +71,40 @@ namespace DecisionMakingLab
                 }
 
                 else
-
+                {
                     Console.WriteLine($"You have choosen a number outside 1-100, {name}! Please try again. ");
+                }
 
-              
+
+
+
+
+                Console.WriteLine("Do you want to try again? Y/N");
+                string answer = Console.ReadLine().ToLower();
+
+
+                switch (answer)
+                {
+                    case "yes":
+                    case "y":
+                        redo = true;
+                        break;
+                    default:
+                        redo = false;
+                        Console.WriteLine("Thank you for working with me! Have a great day!");
+                        break;
+                    
+                    
                 
-               
+
+                }
             }
-            Console.WriteLine("Do you want to try again? Y/N"); 
+            
+
+
+
+
+
 
 
 
