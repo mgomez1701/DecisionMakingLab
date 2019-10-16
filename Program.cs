@@ -7,12 +7,11 @@ namespace DecisionMakingLab
         static void Main(string[] args)
            
         {
+            // declaring the bool variable for the Y/N while loop//
             bool redo = true;
 
 
-            while (redo)
-            {
-
+          
 
 
                 //The application prompts to the user to enter an integer between 1 and 100.
@@ -28,14 +27,15 @@ namespace DecisionMakingLab
                 //// input ////
                 Console.WriteLine("Hello, please share with me your name");
                 string name = Console.ReadLine();
-
+            while (redo)
+            { 
                 Console.WriteLine("Please choose a number between 1 and 100");
 
                 /// Declaring input & changing string to double in the same move ///
 
                 int choosenNumber = int.Parse(Console.ReadLine());
 
-                ///processing if statements ////
+                ///processing if statements  + outputs////
 
                 if (choosenNumber % 2 != 0)
                 {
@@ -59,7 +59,7 @@ namespace DecisionMakingLab
 
 
                 }
-                else if (choosenNumber >= 60 && choosenNumber % 2 == 0)
+                else if (choosenNumber > 60 && choosenNumber % 2 == 0)
                 {
                     Console.WriteLine($"{name} the number {choosenNumber} is Even");
                 }
@@ -77,7 +77,7 @@ namespace DecisionMakingLab
 
 
 
-
+                // output part 2
 
                 Console.WriteLine("Do you want to try again? Y/N");
                 string answer = Console.ReadLine().ToLower();
